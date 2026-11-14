@@ -416,3 +416,14 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# -----------------------------------------------------------
+# C / Visual Studio build outputs, editor temp files (추가)
+# -----------------------------------------------------------
+*.exe
+*.idb
+*.exe.recipe
+*.swp
+*.swo
+*~
+enc_temp_folder/
